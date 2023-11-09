@@ -16,6 +16,6 @@ As a seasoned React Native developer, I thrive on turning ideas into interactive
 
 Embark on this thrilling quest of creating extraordinary mobile experiences. Whether it's fixing bugs, optimizing performance, or dreaming up new features, every contribution is a step toward greatness.
 
-**Remember, the best code is not just functional; it's a masterpiece that inspires. Happy coding!** 🌈🚀
+**Remember, the best code is not just functional. it's a masterpiece that inspires. Happy coding!** 🌈🚀
 
 ![HeheBoy](https://media.tenor.com/COcSmM3DDf0AAAAC/he-hehe.gif)
