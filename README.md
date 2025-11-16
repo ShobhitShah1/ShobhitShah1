@@ -20,11 +20,11 @@
 ---
 
 <div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shobhitshah1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B6F47&icon_color=8B6F47&text_color=FFF&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhitshah1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B6F47&icon_color=8B6F47&text_color=FFF&langs_count=8"/>
 
-## 📊 GitHub Analytics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shobhitshah1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=A277FF&text_color=FFF&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhitshah1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=A277FF&text_color=FFF"/>
+<br/>
+<br/>
 
 <!-- CONTRIBUTION SNAKE ANIMATION -->
 <picture>
@@ -34,8 +34,7 @@
 </picture>
 
 <!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shobhitshah1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A277FF&line=A277FF&point=FFFFFF" width="100%"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shobhitshah1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B6F47&line=8B6F47&point=FFFFFF" width="100%"/>
 </div>
 
 ---
@@ -45,9 +44,9 @@
 ## 💼 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shobhitshah1.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shobhit-shah-9445a321b)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ShobhitShah14)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shobhitshah094@gmail.com)
 
 ---
 
