@@ -19,18 +19,14 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shobhitshah1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B6F47&icon_color=8B6F47&text_color=FFF&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhitshah1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B6F47&icon_color=8B6F47&text_color=FFF&langs_count=8"/>
 
-<br/>
-<br/>
-
 <!-- CONTRIBUTION SNAKE ANIMATION -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shobhitshah1/shobhitshah1/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shobhitshah1/shobhitshah1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shobhitshah1/shobhitshah1/output/github-contribution-grid-snake.svg">
 </picture>
 
 <!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shobhitshah1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B6F47&line=8B6F47&point=FFFFFF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shobhitshah1&theme=tokyo-night&hide_title=true&hide_border=true&bg_color=0D1117&color=8B6F47&line=8B6F47&point=FFFFFF" width="100%"/>
 </div>
 
 <div align="center">
