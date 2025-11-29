@@ -15,10 +15,6 @@
 
 </div>
 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shobhitshah1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B6F47&icon_color=8B6F47&text_color=FFF&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhitshah1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B6F47&icon_color=8B6F47&text_color=FFF&langs_count=8"/>
-
 <!-- CONTRIBUTION SNAKE ANIMATION -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shobhitshah1/shobhitshah1/output/github-contribution-grid-snake-dark.svg">
@@ -39,7 +35,5 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shobhitshah094@gmail.com)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
-*"Talk is cheap. Show me the code."* - Linus Torvalds
 
 </div>
