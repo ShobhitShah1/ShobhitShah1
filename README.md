@@ -1,6 +1,6 @@
 <div align="center">
 <!-- ANIMATED TYPING HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=8B6F47&center=true&vCenter=true&width=940&lines=Hey!+I'm+Shobhit+Shah+%F0%9F%91%8B;Mobile+App+Developer+%7C+React+Native/Expo;Native+Experiences+with+JavaScript/TypeScript" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=8B6F47&center=true&vCenter=true&width=940&lines=Hey!+I'm+Shobhit+Shah;Mobile+App+Developer+%7C+React+Native/Expo;Native+Experiences+with+JavaScript/TypeScript" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,15 +15,6 @@
 
 </div>
 
-<!-- CONTRIBUTION SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shobhitshah1/shobhitshah1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shobhitshah1/shobhitshah1/output/github-contribution-grid-snake.svg">
-</picture>
-
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shobhitshah1&theme=tokyo-night&hide_title=true&hide_border=true&bg_color=0D1117&color=8B6F47&line=8B6F47&point=FFFFFF" width="100%"/>
-</div>
 
 <div align="center">
 
